@@ -1,0 +1,17 @@
+{
+    "breakfast": [{
+        "name" : "Pancake",
+        "price": "$5.50",
+        "calories": "268"
+    },
+{
+    "name": "Potatoes",
+    "price": "$1.50",
+    "calories": "200"
+},
+{
+    "name": "Poutine",
+    "price":"$3.25",
+    "calories": "400"
+}]
+}

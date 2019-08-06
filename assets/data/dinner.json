@@ -1,0 +1,17 @@
+{
+    "dinner": [{
+        "name" : "Shawarma",
+        "price": "$16.99",
+        "calories": "403"
+    },
+{
+    "name": "Lamb chops",
+    "price": "$21.99",
+    "calories": "340"
+},
+{
+    "name": "Kofta with rice",
+    "price":"$18.99",
+    "calories": "230"
+}]
+}

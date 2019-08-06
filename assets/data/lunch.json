@@ -1,0 +1,17 @@
+{
+    "lunch": [{
+        "name" : "Veg Wrap",
+        "price": "$8",
+        "calories": "130"
+    },
+{
+    "name": "Veggie Pizza",
+    "price": "$12.99",
+    "calories": "400"
+},
+{
+    "name": "Rice with beans",
+    "price":"$7.50",
+    "calories": "600"
+}]
+}
